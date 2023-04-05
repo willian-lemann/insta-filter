@@ -16,8 +16,11 @@ Using Face detection to create emojis on the face
 2. Install the dependencies:
    ```sh
    npm install or yarn install or any of your preference
-   
-   run 
+3. run your expo.go app on your smartphone android or ios
+4. run
+   ```sh
+   expo start
+5. Scan the qr code and you are good to go.
 
 #### Usage
 Using expo face detector to get the face bounds and put an emoji when smiling, winking or neutral face.
