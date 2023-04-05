@@ -16,6 +16,8 @@ Using Face detection to create emojis on the face
 2. Install the dependencies:
    ```sh
    npm install or yarn install or any of your preference
+   
+   run 
 
 #### Usage
 Using expo face detector to get the face bounds and put an emoji when smiling, winking or neutral face.
